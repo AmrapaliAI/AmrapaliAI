@@ -82,7 +82,7 @@
 ## ✨ Portfolio
 
 🌍 Portfolio Website:
-YOUR_PORTFOLIO_LINK_HERE
+https://amrapali-portfolio.netlify.app/
 
 ---
 
