@@ -27,7 +27,7 @@ public class AmrapaliRaddi {
     String role       = "Full Stack Developer";
     String education  = "Final Year B.Sc. Computer Science";
     String rank       = "Ranked 1st in FYBSc Computer Science 🏆";
-    String location   = "Pune, Maharashtra, India 📍";
+    String location   = "Sangola, Maharashtra, India 📍";
 
     String[] passions = {
         "Full Stack Development",
